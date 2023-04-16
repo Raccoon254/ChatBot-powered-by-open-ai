@@ -13,7 +13,7 @@ OpenAI API key
 # Installation
 Clone the repository:
 
-git clone https://github.com/Raccoon254/ChatBot-powered-by-open-ai.git
+git clone https://github.com/Raccoon254/ChatBot-powered-by-open-ai.git <br>
 Change to the project directory:
 
 cd AI-Powered-PHP-Chatbot
@@ -26,7 +26,7 @@ Set up a local PHP server to host the project (for example, using PHP's built-in
 
 **php -S localhost:8080**
 Open your web browser and navigate to http://localhost:8080 to start chatting with your AI-powered chatbot.
-Contributing
+# Contributing
 Contributions are welcome! Feel free to submit pull requests or open issues to help improve the project.
 
 # License
